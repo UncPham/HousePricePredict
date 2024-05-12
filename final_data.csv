@@ -1,4 +1,4 @@
-Quận,Loại,Diện tích (m²),Mức giá (tỷ),Số phòng ngủ,Số toilet
+Quận,Loại nhà,Diện tích (m²),Mức giá (tỷ),Số phòng ngủ,Số toilet
 Gia Lâm,Căn hộ chung cư,55.0,2.07,2,1
 Nam Từ Liêm,Căn hộ chung cư,140.0,9.5,4,3
 Hà Đông,Căn hộ chung cư,98.0,3.19,3,2
@@ -757,7 +757,6 @@ Gia Lâm,Căn hộ chung cư,91.0,5.0,3,2
 Tây Hồ,Nhà riêng,110.0,14.0,6,6
 Hoài Đức,Nhà riêng,30.0,3.1,3,4
 Hai Bà Trưng,Căn hộ chung cư,80.0,5.4,2,2
-Nam Từ Liêm,Căn hộ chung cư,45.0,0.00175,1,1
 Đống Đa,Nhà riêng,75.0,11.8,6,6
 Hà Đông,Căn hộ chung cư,92.0,3.5,2,2
 Nam Từ Liêm,Căn hộ chung cư,115.0,5.0,3,2
@@ -1488,7 +1487,6 @@ Hà Đông,Nhà riêng,51.0,5.2,4,3
 Cầu Giấy,Nhà riêng,141.0,22.5,5,5
 Hà Đông,Căn hộ chung cư,80.0,3.1,2,2
 Tây Hồ,Nhà riêng,82.0,18.9,6,6
-Nam Từ Liêm,"Nhà biệt thự, liền kề",85.0,13.7,5,5
 Tây Hồ,Nhà riêng,105.0,33.5,8,8
 Tây Hồ,Căn hộ chung cư,88.0,9.6,2,2
 Nam Từ Liêm,Căn hộ chung cư,106.0,5.2,3,2
@@ -2274,7 +2272,6 @@ Long Biên,Căn hộ chung cư,75.0,2.78,3,2
 Long Biên,Căn hộ chung cư,73.0,3.55,2,2
 Long Biên,Nhà riêng,55.0,9.8,5,4
 Long Biên,Căn hộ chung cư,72.0,3.2,2,2
-Cầu Giấy,"Nhà biệt thự, liền kề",320.0,145.0,6,6
 Long Biên,Căn hộ chung cư,77.0,3.5,2,2
 Long Biên,Căn hộ chung cư,82.0,2.9,3,2
 Long Biên,Nhà mặt phố,302.0,48.0,10,8
